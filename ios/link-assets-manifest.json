@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Epilogue-Bold.ttf",
+      "sha1": "469e67cf60797174622c9ad21ed1514a28e5bfe1"
+    },
+    {
+      "path": "assets/fonts/Epilogue-Medium.ttf",
+      "sha1": "ed626223f8f3be16f5ab8461229aa26bf3a4e272"
+    },
+    {
+      "path": "assets/fonts/Epilogue-Regular.ttf",
+      "sha1": "09a9ef0dbc56ac17c8cb7db1ff683bb2ff039c0b"
+    },
+    {
+      "path": "assets/fonts/Epilogue-SemiBold.ttf",
+      "sha1": "ad16b5d39c02fc121ce9a2305d8dd2fd270958f6"
+    }
+  ]
+}

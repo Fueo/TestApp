@@ -1,0 +1,47 @@
+{
+  "hashes": [
+    "5afb93e3fee05ec430710c25408a59d5fc617d34",
+    "d1c06a6c6b0149100c6ad3c0046be0f6b9f1e700",
+    "469b8da4951e846eb09f3c79a05b76cb9cad2edc",
+    "6cef17731c2df8a62b0fe748cd319c50cf80e709",
+    "b9c70885c04e57709a9fb4e5999f1e588c9984ea",
+    "38b37c602ef2f858732d0ee61e7eac5df69c58cd",
+    "bca601aec604298cdf9e90966f162ba015bbcee5",
+    "25cc03ea8a4590777d56de3629d49279aa29e44f",
+    "4678da3bcde13cb1ff580967508fa30dc80ce8be",
+    "b09f1027f2bd526e47e67b2b1deaa713c0895772",
+    "111f441263cc356856a3d5519edba39600c39b2e",
+    "70780663158c02fc8434f4f8bf80205b1b085f61",
+    "02f5748e60b4ba108ec0cc201b28e1f4980a1fe4",
+    "2f86b08fd9774c29b5ea627f3e67a5c9cf1c382c",
+    "2a4e99e118c2475e01b55c58b12926f711d51d89",
+    "3efca5a09429cf058dbaf27f6f3f241f69d16190",
+    "374b719df0c2fd9721df208e12a37f169addfc7e",
+    "78edeebfee2c722175d103530b55162861f60fdb",
+    "918905dd79f2a5e6d57814a5f396b5d13d0dbcb1",
+    "0cd21eee2e2af2e98c3671d24fdf222a7a44a1c9",
+    "3b16a3c6c59a956b498e1040eaa556d3f77ec72e"
+  ],
+  "icons": [
+    "ic_bottom_nav_home",
+    "ic_bottom_nav_cart",
+    "ic_bottom_nav_widget",
+    "ic_bottom_nav_bill",
+    "ic_bottom_nav_profile",
+    "ic_search_magnifier",
+    "ic_search_camera",
+    "ic_header_bell_notification",
+    "ic_title_flash_sale_bolt",
+    "ic_title_san_pham_ban_chay",
+    "ic_arrow_double_right_view_more",
+    "ic_title_danh_cho_ban",
+    "ic_title_hang_moi_ve",
+    "ic_title_bai_viet_noi_bat"
+  ],
+  "illustrations": [
+    "img_group_mua_1_tang_1_loc_gio_va_dau",
+    "img_group_xa_kho_gia_soc_2_loi_loc",
+    "img_group_dong_gia_299k_cum_loc_va_dau",
+    "img_group_bo_loc_chat_luong_cao_2_loi_loc"
+  ]
+}
